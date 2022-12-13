@@ -2,8 +2,6 @@
 
 ### Cette solution est réalisé par : Ibrahilm Chahboune
 
-### Cette solution est réalisé par : Ibrahilm Chahboune
-
 ## Description
 
 La société “iHoover” a décidé de développer un aspirateur automatique.
